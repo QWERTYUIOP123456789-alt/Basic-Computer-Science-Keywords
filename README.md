@@ -61,6 +61,8 @@ in this context, "bare metal" means the hardware is directly utilized for a sing
 
    ~secondary storage: hard disk
 
+   ![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/e36c111f611a3ab1efe8f5fa2dc05b3132126c10/Image%205.jpeg)
+
    (iii) **NETWORK**:-
 
   ~ Local Area Network (LAN): A LAN covers a small geographic area, such as a home, office, or campus. It connects devices within this limited space, typically using Ethernet                               cables or Wi-Fi. LANs are used for sharing resources like files, printers, and internet access.

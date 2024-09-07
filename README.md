@@ -37,6 +37,8 @@ in this context, "bare metal" means the hardware is directly utilized for a sing
    ~ASIC:-ASIC stands for Application-Specific integrated circuit. it's a type of integrated circuit designed for a specific application or function, rather than general
                 puerpose use. for example, an ASIC designed for cryptocurrency mining is specifically built to perform the hashing calculations required for mining.
 
+
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/ae66e4226b3c0cfe7487e2eb6897b3fad639447f/Image.jpeg)
    
    (ii) **STORAGE**:-
 

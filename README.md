@@ -57,6 +57,8 @@ in this context, "bare metal" means the hardware is directly utilized for a sing
 
    ~primary storage: RAM
 
+   ![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/205bfdb401ec97dda7557fdd4bd5984c0522341a/Image%204.jpeg)
+
    ~secondary storage: hard disk
 
    (iii) **NETWORK**:-

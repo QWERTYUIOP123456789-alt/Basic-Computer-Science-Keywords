@@ -71,4 +71,6 @@ in this context, "bare metal" means the hardware is directly utilized for a sing
 
   ~Wide Area Network (WAN): A WAN spans a large geographic area, often covering multiple cities, countries, or even continents. It connects multiple LANs and other types of                             networks. The internet is the largest example of a WAN. WANs can be public, like the internet, or private, like those used by large corporations.
 
+  ![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/6a61dbb7431c752150ebecfd65d508c109c5bdea/Image%207.jpeg)
+
          

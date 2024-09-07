@@ -238,3 +238,5 @@ In web development, the terms **frontend**, **backend**, and **API** refer to di
 - **API**: A set of rules that allows different software components to communicate and exchange data.
 
 Together, these components work to create a complete web application, with the frontend providing the user experience, the backend managing data and logic, and the API facilitating communication between the two.
+
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/dfdfe91ea07ad09bbc6c54d2e7cedd7269572223/IMAGE%202024-09-08%2002%3A08%3A58.jpg)

@@ -133,6 +133,17 @@ A virtual machine (VM) is a software-based emulation of a physical computer that
 
 An IP address (Internet Protocol address) is a unique string of numbers separated by periods or colons that identifies each device connected to a network. IP addresses serve two primary functions: identifying the host or network interface and providing the location of the host in the network. They are essential for routing internet traffic and ensuring data reaches the correct destination.
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/947a68ef5d4b4142dcddc9c582640da4cbbf1d0c/Image%2013.jpeg)
 
+There are two main versions of IP address:
+
+
+1️⃣IPv4 (Internet Protocol version 4): This format uses four sets of numbers ranging from 0 to 255, separated by periods 
+
+(e.g., 192.168.1.1). It provides about 4.3 billion unique addresses.
+
+2️⃣IPv6 (Internet Protocol version 6): This format uses eight groups of four hexadecimal digits separated by colons 
+
+(e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334). It provides a vastly larger number of addresses to accommodate the growing number of devices on the internet.
 
 

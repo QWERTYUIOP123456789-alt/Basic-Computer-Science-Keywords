@@ -121,4 +121,10 @@ RISC-V (pronounced "risk-five") is an open-source, RISC (Reduced Instruction Set
 
 An algorithm is a structured procedure or set of rules designed to solve a specific problem or perform a particular task. It involves well-defined, finite steps that take inputs and produce outputs. Algorithms are crucial for efficient computation and problem-solving, and they form the backbone of computer science and various applications in technology.
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/ba7d1736b7fd46a89a206f5754ba6c2606cf140d/Image%2012.jpeg)
+
+11.**VIRTUAL MACHINE**
+
+A virtual machine (VM) is a software-based emulation of a physical computer that allows multiple operating systems or instances to run on a single physical machine. VMs provide isolation, encapsulation, and resource efficiency, making them valuable for development, testing, and production environments. They come in two main types: system virtual machines, which emulate entire systems, and process virtual machines, which abstract individual applications. While VMs offer numerous advantages, including flexibility and efficient resource utilization, they also come with performance overhead and management complexity.
+
 

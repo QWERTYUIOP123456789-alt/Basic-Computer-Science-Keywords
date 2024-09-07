@@ -26,6 +26,7 @@ in this context, "bare metal" means the hardware is directly utilized for a sing
                to referred to as the "brain" of the computer, the CPU executes instruction from proggrams through its control unit, arthmetic logic unit(ALU),and registers.
 
 ![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/bbc2cdee2db143e81efd19f31d9ebf26f753cb99/Image%201.jpeg)
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/e28d4190b8a6556fff0bbd800673331369025d67/Image%202.jpeg)
 
    ~GPU:-A Gaphics processing unit(GPU) is a specialized processor designed to handle and accelerate the rendering of images, video and animation. unlike a CPU,which is 
                optimised for general-purpose computing task, a GPU is optimized for parllel processing,meaning it can handle many operations simultaneously.

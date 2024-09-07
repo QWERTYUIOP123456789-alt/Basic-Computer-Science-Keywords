@@ -180,4 +180,21 @@ Here's a simple breakdown of how DNS works:
 
 DNS is crucial for the functionality of the internet, making it easier for people to navigate and access websites without needing to remember complex numerical IP addresses.
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/de5ad40f996ec225c98676a971ef020427aa2345/Image%2016.jpeg)
+
+15.**VPN(Virtual Private Network)**
+
+A VPN, or Virtual Private Network, is a service that creates a secure, encrypted connection over a less secure network, such as the internet. It allows you to access the internet as if you were connected to a private network, providing privacy and security. Here's how it works and why you might use it:
+
+1. **Encryption**: When you connect to a VPN, your internet traffic is encrypted, meaning that the data you send and receive is scrambled and unreadable to anyone who might intercept it. This helps protect your data from hackers, especially on public Wi-Fi networks.
+
+2. **IP Masking**: A VPN hides your real IP address and replaces it with one from the VPN server. This can make it harder for websites, advertisers, and other parties to track your online activities and identify your location.
+
+3. **Secure Access**: VPNs provide secure access to your network resources, which can be useful for businesses allowing remote employees to connect to internal systems securely.
+
+4. **Bypassing Restrictions**: VPNs can help you access content that might be restricted or censored in your location by routing your connection through servers in different countries. This is useful for accessing services, websites, or content that might be geo-blocked.
+
+5. **Privacy**: By hiding your IP address and encrypting your data, a VPN enhances your online privacy, making it more difficult for third parties to monitor your browsing activities.
+
+When you use a VPN, your internet traffic is routed through a secure server before reaching its destination, adding a layer of privacy and security. However, it's important to choose a reputable VPN provider to ensure your data is handled securely and your privacy is protected.
 

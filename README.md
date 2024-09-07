@@ -67,6 +67,8 @@ in this context, "bare metal" means the hardware is directly utilized for a sing
 
   ~ Local Area Network (LAN): A LAN covers a small geographic area, such as a home, office, or campus. It connects devices within this limited space, typically using Ethernet                               cables or Wi-Fi. LANs are used for sharing resources like files, printers, and internet access.
 
+  ![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/bd66da1cfb8c2a06636e2cc570ded1b772c5aa5f/Image%206.jpeg)
+
   ~Wide Area Network (WAN): A WAN spans a large geographic area, often covering multiple cities, countries, or even continents. It connects multiple LANs and other types of                             networks. The internet is the largest example of a WAN. WANs can be public, like the internet, or private, like those used by large corporations.
 
          

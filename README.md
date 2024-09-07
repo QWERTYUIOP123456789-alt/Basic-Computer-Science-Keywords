@@ -73,17 +73,27 @@ in this context, "bare metal" means the hardware is directly utilized for a sing
 
   ![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/6a61dbb7431c752150ebecfd65d508c109c5bdea/Image%207.jpeg)
 
-  # OSI MODEL(7 LAYERS) NETWORKING MODEL
+ 5. # OSI MODEL(7 LAYERS) NETWORKING MODEL
 
   The OSI (Open Systems Interconnection) model is a conceptual framework used to understand and standardize the functions of a    telecommunication or computing system, regardless of its underlying technology. It divides network communication into seven distinct   layers, each with specific functions.
 
   ![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/3d5b59e60ab8c2fc4852d69b5fc63b4cf3568ed2/D40E0460-D8DF-4933-9BA6-AB02F9058677.png)
 
- # **BLOCKCHAIN:**
+ 6. # **BLOCKCHAIN:**
 
  Blockchain is a decentralized digital ledger technology that securely records transactions across multiple computers in a way that       prevents alteration or tampering. It operates as a chain of blocks, each containing a list of transactions. Once a block is added to   the chain, it is difficult to change any information in that block without altering all subsequent blocks, which requires consensus  from the network. This makes blockchain a transparent and secure method for managing and verifying transactions. It's commonly used in  cryptocurrencies like Bitcoin but also has applications in various other fields, such as supply chain management, voting systems, and   smart contracts.
 
  ![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/6393b054257b5e47d8a1d72d2907b6dc8b79c1b9/Image%208.jpeg)
 
+7. **CISC:**
+   CISC architectures are designed to execute complex instructions with a rich set of addressing modes and operations, often simplifying    programming and achieving high instruction density. However, this complexity can introduce challenges in decoding and execution that    need to be managed effectively.
+
+
+
+   Examples:-
+
+    x86 Architecture: One of the most well-known CISC architectures, used in most personal computers. It includes a wide range of        instructions and addressing modes.
+
+    AMD64 (x86-64): An extension of x86 that supports 64-bit computing, maintaining backward compatibility with x86 software.
   
          

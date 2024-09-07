@@ -1,12 +1,12 @@
 # KEYWORDS
 
-1. OPERATING SYSTEM(OS): An Operating system is system software that manages computer hardware and software resources and provides common services for computer programs.
+1. **OPERATING SYSTEM(OS)**: An Operating system is system software that manages computer hardware and software resources and provides common services for computer programs.
 it act as an intermediary betweenusers and computer hardware
 
-2. BARE METAL: Bare metal refers to a computer system or servers that runs without a layer of abstraction such as a virtulization layer or operating system.
+2. **BARE METAL**: Bare metal refers to a computer system or servers that runs without a layer of abstraction such as a virtulization layer or operating system.
 in this context, "bare metal" means the hardware is directly utilized for a single application or workload, allowing  for maximum performance and control
 
-3. LINUX KERNEL: The linux kernal is the core component of the linux operating system. it serves as the fundamental interface between a computer's hardware and its software.
+3. **LINUX KERNEL**: The linux kernal is the core component of the linux operating system. it serves as the fundamental interface between a computer's hardware and its software.
        Here are key aspects of the linux kernal:
 
    ~kernal functions: it manages hardware resources such as CPU,Memory, and peripheral devices.
@@ -20,7 +20,7 @@ in this context, "bare metal" means the hardware is directly utilized for a sing
      network cards, and graphics adapters.
 4. Devices are mainly divided into three parts:
 
- (i) COMPUTATION:-
+ (i) **COMPUTATION**:-
 
    ~CPU:-The central processing unit (CPU) is the primary component of a computer that performs most of the processing tasks.often
                to referred to as the "brain" of the computer, the CPU executes instruction from proggrams through its control unit, arthmetic logic unit(ALU),and registers.
@@ -38,12 +38,16 @@ in this context, "bare metal" means the hardware is directly utilized for a sing
                 puerpose use. for example, an ASIC designed for cryptocurrency mining is specifically built to perform the hashing calculations required for mining.
 
    
-   (ii) STORAGE:-
+   (ii) **STORAGE**:-
 
    ~primary storage: RAM
 
    ~secondary storage: hard disk
 
-   (iii) NETWORK
+   (iii) **NETWORK**:-
+
+  ~ Local Area Network (LAN): A LAN covers a small geographic area, such as a home, office, or campus. It connects devices within this limited space, typically using Ethernet                               cables or Wi-Fi. LANs are used for sharing resources like files, printers, and internet access.
+
+  ~Wide Area Network (WAN): A WAN spans a large geographic area, often covering multiple cities, countries, or even continents. It connects multiple LANs and other types of                             networks. The internet is the largest example of a WAN. WANs can be public, like the internet, or private, like those used by large corporations.
 
          

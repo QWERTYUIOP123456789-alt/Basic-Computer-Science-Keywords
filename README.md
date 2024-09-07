@@ -198,3 +198,43 @@ A VPN, or Virtual Private Network, is a service that creates a secure, encrypted
 
 When you use a VPN, your internet traffic is routed through a secure server before reaching its destination, adding a layer of privacy and security. However, it's important to choose a reputable VPN provider to ensure your data is handled securely and your privacy is protected.
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/81e44ccdb4ee6295b54576205ad874bb0a4cbad8/Image%2017.jpeg)
+
+16.**FRONTEND,BACKEND AND API(Application Programming Interface)**
+
+In web development, the terms **frontend**, **backend**, and **API** refer to different aspects of building and managing applications. Here’s a breakdown of each:
+
+### **Frontend**
+
+**Frontend** refers to the **client-side** of a web application. It encompasses everything that users interact with directly in their web browsers. This includes:
+
+- **Design and Layout**: The visual aspects of a website or application, including the layout, colors, fonts, and images.
+- **User Interface (UI)**: The components that users interact with, such as buttons, forms, and navigation menus.
+- **Technologies**: Frontend development primarily involves languages and frameworks like HTML (Hypertext Markup Language), CSS (Cascading Style Sheets), and JavaScript. Frameworks and libraries like React, Angular, and Vue.js are commonly used to build interactive and dynamic user interfaces.
+
+### **Backend**
+
+**Backend** refers to the **server-side** of a web application. It involves everything that happens on the server and is responsible for managing and processing data. Key aspects include:
+
+- **Server**: The hardware or software that provides services, resources, or data to other computers over a network.
+- **Database**: Where data is stored, retrieved, and managed. Common databases include MySQL, PostgreSQL, and MongoDB.
+- **Server-Side Logic**: The code that runs on the server, handling requests from the frontend, processing data, and sending responses. This includes server-side languages like Python, Ruby, Java, PHP, and Node.js.
+- **Authentication**: Managing user login, registration, and security.
+
+### **API**
+
+**API** stands for **Application Programming Interface**. It is a set of rules and protocols that allows different software applications to communicate with each other. APIs can be used to:
+
+- **Connect Frontend and Backend**: APIs often serve as the bridge between the frontend (client-side) and backend (server-side). For instance, when you submit a form on a website, the frontend sends a request to the backend via an API, which processes the request and sends back a response.
+- **Access External Services**: APIs enable applications to interact with third-party services or data sources. For example, a weather app might use an API to fetch weather data from an external weather service.
+- **Standardize Communication**: APIs provide a standardized way for different software components or systems to interact, regardless of their underlying technology.
+
+**REST (Representational State Transfer)** and **GraphQL** are common API design styles. REST APIs use HTTP requests to interact with resources, while GraphQL allows clients to request specific data and aggregate results from multiple sources.
+
+### **In Summary**
+
+- **Frontend**: The user-facing part of a web application where users interact directly.
+- **Backend**: The server-side part that processes data and handles the business logic.
+- **API**: A set of rules that allows different software components to communicate and exchange data.
+
+Together, these components work to create a complete web application, with the frontend providing the user experience, the backend managing data and logic, and the API facilitating communication between the two.

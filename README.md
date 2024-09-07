@@ -1,12 +1,22 @@
 # KEYWORDS
 
 1. **OPERATING SYSTEM(OS)**: An Operating system is system software that manages computer hardware and software resources and provides common services for computer programs.
-it act as an intermediary betweenusers and computer hardware
+it act as an intermediary between users and computer hardware
 
-2. **BARE METAL**: Bare metal refers to a computer system or servers that runs without a layer of abstraction such as a virtulization layer or operating system.
+    these are the famous or commonly used Operating System(OS):
+
+   WINDOWS
+
+   MACos
+
+   LINUX
+
+   ![IMAGE ALT](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/54d7a10bf9fcef76f1aa5a7e7472b32a15f7cef2/Image%203.jpeg)
+
+3. **BARE METAL**: Bare metal refers to a computer system or servers that runs without a layer of abstraction such as a virtulization layer or operating system.
 in this context, "bare metal" means the hardware is directly utilized for a single application or workload, allowing  for maximum performance and control
 
-3. **LINUX KERNEL**: The linux kernal is the core component of the linux operating system. it serves as the fundamental interface between a computer's hardware and its software.
+4. **LINUX KERNEL**: The linux kernal is the core component of the linux operating system. it serves as the fundamental interface between a computer's hardware and its software.
        Here are key aspects of the linux kernal:
 
    ~kernal functions: it manages hardware resources such as CPU,Memory, and peripheral devices.
@@ -18,7 +28,7 @@ in this context, "bare metal" means the hardware is directly utilized for a sing
 
    ~device drivers: the kernel includes drivers for a wide range of hardware devices, enabling the operating system to communicateT with and control peripherals like printers
      network cards, and graphics adapters.
-4. Devices are mainly divided into three parts:
+5. Devices are mainly divided into three parts:
 
  (i) **COMPUTATION**:-
 

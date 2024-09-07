@@ -129,4 +129,10 @@ A virtual machine (VM) is a software-based emulation of a physical computer that
 
 ![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/e1f0d5919074b9bd57f2d083dfa2e9007a70a35d/JPEG%20image-4F87-960B-0F-0.jpeg)
 
+12.**IP ADDRESS**
+
+An IP address (Internet Protocol address) is a unique string of numbers separated by periods or colons that identifies each device connected to a network. IP addresses serve two primary functions: identifying the host or network interface and providing the location of the host in the network. They are essential for routing internet traffic and ensuring data reaches the correct destination.
+
+
+
 

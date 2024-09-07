@@ -101,5 +101,14 @@ Examples:-
 
 RISC architectures emphasize a simplified and highly optimized instruction set, with instructions typically executed in a single clock cycle. By relying on a large number of registers and implementing efficient pipelining, RISC processors aim to achieve high performance and efficiency. However, this simplicity can lead to a higher instruction count and potentially lower code density compared to more complex CISC architectures.
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/c93a50ea13335a09bf42f637b2b85ba7a93503b1/Image%2010.jpeg)
+
+Examples:-
+
+1️⃣ARM: A widely used RISC architecture, particularly in mobile devices and embedded systems. ARM processors are known for their power efficiency and high performance.
+
+2️⃣MIPS: Another well-known RISC architecture used in various applications, including academic research and embedded systems.
+
+3️⃣RISC-V: An open-source RISC architecture that is gaining popularity due to its flexibility and modular design.
 
          

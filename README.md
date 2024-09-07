@@ -146,4 +146,18 @@ There are two main versions of IP address:
 
 (e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334). It provides a vastly larger number of addresses to accommodate the growing number of devices on the internet.
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/6b8db7da598a230d6aaad055915633906735dec8/Image%2014.jpeg)
+
+13.**ISP(Internet Service Provider)**
+
+An ISP, or Internet Service Provider, is a company or organization that provides individuals and businesses with access to the internet. ISPs offer various types of internet connections, including:
+
+- **DSL (Digital Subscriber Line)**: Uses telephone lines to provide internet access.
+- **Cable**: Uses cable television lines for internet service.
+- **Fiber-optic**: Uses fiber-optic cables for high-speed internet access.
+- **Satellite**: Provides internet access via satellite signals, useful in remote areas.
+- **Wireless**: Uses radio signals to connect to the internet, which can include both fixed wireless and mobile broadband.
+
+In addition to providing internet access, ISPs may also offer related services such as email, web hosting, and technical support. When you connect to the internet, you’re usually connecting through an ISP that assigns you an IP address and handles the routing of data between your device and the broader internet.
+
 

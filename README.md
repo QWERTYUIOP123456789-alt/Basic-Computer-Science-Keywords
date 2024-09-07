@@ -79,5 +79,9 @@ in this context, "bare metal" means the hardware is directly utilized for a sing
 
   ![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/3d5b59e60ab8c2fc4852d69b5fc63b4cf3568ed2/D40E0460-D8DF-4933-9BA6-AB02F9058677.png)
 
+ # **BLOCKCHAIN:**
+
+ Blockchain is a decentralized digital ledger technology that securely records transactions across multiple computers in a way that       prevents alteration or tampering. It operates as a chain of blocks, each containing a list of transactions. Once a block is added to   the chain, it is difficult to change any information in that block without altering all subsequent blocks, which requires consensus  from the network. This makes blockchain a transparent and secure method for managing and verifying transactions. It's commonly used in  cryptocurrencies like Bitcoin but also has applications in various other fields, such as supply chain management, voting systems, and   smart contracts.
+
   
          

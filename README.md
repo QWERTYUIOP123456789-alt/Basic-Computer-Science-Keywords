@@ -162,4 +162,22 @@ In addition to providing internet access, ISPs may also offer related services s
 
 ![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/f9fec1440bcc59ecad98ababa0c66c49528ea2eb/Image%2015.jpeg)
 
+14.**DNS(Domain Name System)**
+
+DNS stands for Domain Name System. It functions like a phone book for the internet, translating human-friendly domain names (like `www.example.com`) into IP addresses (like `192.0.2.1`) that computers use to identify each other on the network.
+
+Here's a simple breakdown of how DNS works:
+
+1. **Request**: When you type a web address into your browser, a DNS request is made to find the corresponding IP address for that domain name.
+
+2. **Resolution**: The DNS system then looks up the IP address associated with that domain name. This process involves several steps:
+   - **Recursive Resolver**: Your request first goes to a DNS resolver, which is often provided by your ISP. This resolver tries to find the IP address for the domain name.
+   - **Root Name Servers**: If the resolver doesn't have the address cached, it queries one of the root name servers, which point to the appropriate top-level domain (TLD) name servers (like those for `.com` or `.org`).
+   - **TLD Name Servers**: The TLD servers then direct the resolver to the authoritative name servers for the specific domain.
+   - **Authoritative Name Servers**: These servers have the actual IP address for the domain and respond to the resolver with this information.
+
+3. **Response**: The DNS resolver returns the IP address to your browser, which then uses it to connect to the web server hosting the website you want to visit.
+
+DNS is crucial for the functionality of the internet, making it easier for people to navigate and access websites without needing to remember complex numerical IP addresses.
+
 

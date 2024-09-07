@@ -28,7 +28,7 @@ in this context, "bare metal" means the hardware is directly utilized for a sing
 
    ~device drivers: the kernel includes drivers for a wide range of hardware devices, enabling the operating system to communicateT with and control peripherals like printers
      network cards, and graphics adapters.
-5. Devices are mainly divided into three parts:
+5. **Devices are mainly divided into three parts:**
 
  (i) **COMPUTATION**:-
 
@@ -85,15 +85,21 @@ in this context, "bare metal" means the hardware is directly utilized for a sing
 
  ![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/6393b054257b5e47d8a1d72d2907b6dc8b79c1b9/Image%208.jpeg)
 
-7. **CISC:**
-   CISC architectures are designed to execute complex instructions with a rich set of addressing modes and operations, often simplifying    programming and achieving high instruction density. However, this complexity can introduce challenges in decoding and execution that    need to be managed effectively.
+7.**CISC:**
+
+CISC architectures are designed to execute complex instructions with a rich set of addressing modes and operations, often simplifying   programming and achieving high instruction density. However, this complexity can introduce challenges in decoding and execution that    need to be managed effectively.
+
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/4e112c62527ddf180bd8e0c9f09e3b6a7e7b5cb9/Image%209.jpeg)
+
+Examples:-
+
+1️⃣ x86 Architecture: One of the most well-known CISC architectures, used in most personal computers. It includes a wide range of        instructions and addressing modes.
+
+2️⃣ AMD64 (x86-64): An extension of x86 that supports 64-bit computing, maintaining backward compatibility with x86 software.
+
+8.**RISC:**
+
+RISC architectures emphasize a simplified and highly optimized instruction set, with instructions typically executed in a single clock cycle. By relying on a large number of registers and implementing efficient pipelining, RISC processors aim to achieve high performance and efficiency. However, this simplicity can lead to a higher instruction count and potentially lower code density compared to more complex CISC architectures.
 
 
-
-   Examples:-
-
-    x86 Architecture: One of the most well-known CISC architectures, used in most personal computers. It includes a wide range of        instructions and addressing modes.
-
-    AMD64 (x86-64): An extension of x86 that supports 64-bit computing, maintaining backward compatibility with x86 software.
-  
          

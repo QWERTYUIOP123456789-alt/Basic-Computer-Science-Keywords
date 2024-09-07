@@ -114,3 +114,5 @@ Examples:-
 9.**RISC-V**
 
 RISC-V (pronounced "risk-five") is an open-source, RISC (Reduced Instruction Set Computer) architecture designed to be a flexible and extensible instruction set architecture (ISA). Developed at the University of California, Berkeley,its open nature, along with its base instruction set and extensibility, makes it an attractive choice for a wide range of applications, from embedded systems to high-performance computing. The growing community and ecosystem around RISC-V continue to drive innovation and adoption in various field.
+
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/eb2543420ff42659599de408a353b40f74b38f98/Image%2011.jpeg)

@@ -160,4 +160,6 @@ An ISP, or Internet Service Provider, is a company or organization that provides
 
 In addition to providing internet access, ISPs may also offer related services such as email, web hosting, and technical support. When you connect to the internet, you’re usually connecting through an ISP that assigns you an IP address and handles the routing of data between your device and the broader internet.
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/f9fec1440bcc59ecad98ababa0c66c49528ea2eb/Image%2015.jpeg)
+
 

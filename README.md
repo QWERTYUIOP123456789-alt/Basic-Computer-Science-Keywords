@@ -75,7 +75,9 @@ in this context, "bare metal" means the hardware is directly utilized for a sing
 
   # OSI MODEL(7 LAYERS) NETWORKING MODEL
 
-  The OSI (Open Systems Interconnection) model is a conceptual framework used to understand and standardize the functions of a    telecommunication or computing system, regardless of its underlying technology. It divides network communication into seven distinct   layers, each with specific functions. 
+  The OSI (Open Systems Interconnection) model is a conceptual framework used to understand and standardize the functions of a    telecommunication or computing system, regardless of its underlying technology. It divides network communication into seven distinct   layers, each with specific functions.
+
+  ![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/3d5b59e60ab8c2fc4852d69b5fc63b4cf3568ed2/D40E0460-D8DF-4933-9BA6-AB02F9058677.png)
 
   
          

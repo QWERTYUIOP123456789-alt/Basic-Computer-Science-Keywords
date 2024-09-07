@@ -127,4 +127,6 @@ An algorithm is a structured procedure or set of rules designed to solve a speci
 
 A virtual machine (VM) is a software-based emulation of a physical computer that allows multiple operating systems or instances to run on a single physical machine. VMs provide isolation, encapsulation, and resource efficiency, making them valuable for development, testing, and production environments. They come in two main types: system virtual machines, which emulate entire systems, and process virtual machines, which abstract individual applications. While VMs offer numerous advantages, including flexibility and efficient resource utilization, they also come with performance overhead and management complexity.
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/e1f0d5919074b9bd57f2d083dfa2e9007a70a35d/JPEG%20image-4F87-960B-0F-0.jpeg)
+
 

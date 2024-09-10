@@ -240,3 +240,15 @@ In web development, the terms **frontend**, **backend**, and **API** refer to di
 Together, these components work to create a complete web application, with the frontend providing the user experience, the backend managing data and logic, and the API facilitating communication between the two.
 
 ![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/dfdfe91ea07ad09bbc6c54d2e7cedd7269572223/IMAGE%202024-09-08%2002%3A08%3A58.jpg)
+
+17.**HYPERVISIOR**
+
+A hypervisor, also known as a virtual machine monitor (VMM), is software or firmware that creates and manages virtual machines (VMs) on a physical host system. It sits between the hardware and the operating systems, allowing multiple operating systems to run simultaneously on a single physical machine. 
+
+There are two main types of hypervisors:
+
+1. **Type 1 Hypervisor (Bare-metal)**: This type runs directly on the host's hardware, without an underlying operating system. It manages the hardware resources and allocates them to the virtual machines. Examples include VMware ESXi, Microsoft Hyper-V, and Xen.
+
+2. **Type 2 Hypervisor (Hosted)**: This type runs on top of an existing operating system. It relies on the host OS to manage hardware resources and provides virtual machines with an interface to the host OS. Examples include VMware Workstation, Oracle VirtualBox, and Parallels Desktop.
+
+Hypervisors are used for various purposes, including server virtualization, desktop virtualization, and in development and testing environments, enabling more efficient use of hardware resources and easier management of multiple operating systems.

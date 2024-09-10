@@ -254,3 +254,6 @@ There are two main types of hypervisors:
 2. **Type 2 Hypervisor (Hosted)**: This type runs on top of an existing operating system. It relies on the host OS to manage hardware resources and provides virtual machines with an interface to the host OS. Examples include VMware Workstation, Oracle VirtualBox, and Parallels Desktop.
 
 Hypervisors are used for various purposes, including server virtualization, desktop virtualization, and in development and testing environments, enabling more efficient use of hardware resources and easier management of multiple operating systems.
+
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/d6d385914c1263d3e20993a32d94d47355006c0b/Image%2021.jpeg)
+

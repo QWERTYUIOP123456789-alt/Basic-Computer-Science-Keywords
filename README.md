@@ -271,6 +271,8 @@ making it possible for the device to access network resources, such as the inter
 **Wired NICs:** These connect via Ethernet cables and are typically used in local area networks (LANs). They are often built into the motherboard of a computer 
 but can also be installed as a separate expansion card.
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/94eeee738c61bf01fdae05f9e0d623f3a6a49232/Image.jpeg)
+
 **Wireless NICs:** These connect via Wi-Fi and allow devices to connect to wireless networks. They are commonly found in laptops and some desktop computers, and 
 can also be installed as a separate card or USB adapter.
 
@@ -286,4 +288,39 @@ NIC and configure it correctly.
 connections (e.g., 802.11n, 802.11ac, or the newer 802.11ax).
 
 In essence, the NIC is a crucial component for network connectivity, enabling devices to communicate and share data over a network.
+
+19.**INTERNET PACKET**
+
+An Internet packet, often just called a "packet," is a small unit of data transmitted over a network. When you send or receive information over the Internet, it is broken down into packets to ensure efficient and reliable delivery. Here’s a breakdown of what an Internet packet typically involves:
+
+### Components of an Internet Packet
+
+1. **Header**:
+   - **Source IP Address**: The address of the device that is sending the packet.
+   - **Destination IP Address**: The address of the device that is receiving the packet.
+   - **Sequence Number**: This helps in reassembling the packets in the correct order, as packets can arrive out of sequence.
+   - **Protocol Information**: Specifies the protocol being used, such as TCP (Transmission Control Protocol) or UDP (User Datagram Protocol).
+   - **Checksum**: A value used for error-checking to ensure the data hasn’t been corrupted during transmission.
+
+2. **Payload**:
+   - This is the actual data being transmitted, such as part of an email, a webpage, or a file. It’s the content that the packet carries from the sender to the receiver.
+
+3. **Trailer** (Optional):
+   - Some protocols include a trailer at the end of the packet that provides additional information for error checking and data integrity.
+
+### Packet Transmission and Reassembly
+
+- **Fragmentation**: Larger messages are divided into smaller packets if they exceed the maximum transmission unit (MTU) size allowed by the network. Each packet is then transmitted independently.
+- **Routing**: Packets are sent through various network devices (like routers) to reach their destination. Each router along the path may inspect and forward the packet based on its destination address.
+- **Reassembly**: At the destination, packets are reassembled into their original order. This process uses sequence numbers and checksums to ensure that the complete and correct data is reconstructed.
+
+### Protocols Involved
+
+- **TCP (Transmission Control Protocol)**: Provides reliable, ordered, and error-checked delivery of data. TCP packets are often referred to as segments.
+- **UDP (User Datagram Protocol)**: Offers a simpler, faster way to send data without the overhead of error-checking and ordering. UDP packets are often used for applications where speed is more critical than reliability, like streaming or gaming.
+
+### Importance
+
+Packets are fundamental to how data is transmitted over the Internet. By breaking data into smaller units, networks can manage traffic more efficiently, handle errors, and deliver data from multiple sources and destinations simultaneously. This packet-switching method is key to the scalability and robustness of Internet communications.
+
 

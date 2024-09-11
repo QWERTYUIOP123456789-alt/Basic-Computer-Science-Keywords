@@ -310,7 +310,7 @@ An Internet packet, often just called a "packet," is a small unit of data transm
 3. **Trailer** (Optional):
    - Some protocols include a trailer at the end of the packet that provides additional information for error checking and data integrity.
   
-   - ![image alt](
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/08a3094982334c138013df03f36dc530ace8908d/Image%202.jpeg)
 
 ### Packet Transmission and Reassembly
 

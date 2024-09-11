@@ -257,3 +257,29 @@ Hypervisors are used for various purposes, including server virtualization, desk
 
 ![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/d6d385914c1263d3e20993a32d94d47355006c0b/Image%2021.jpeg)
 
+18. **NIC (Network Interface Card)**
+
+    NIC stands for Network Interface Card. It's a hardware component that allows a computer or other devices to connect to a network. Here’s a quick rundown:
+
+Function: NICs facilitate communication between a computer and a network. They handle the process of sending and receiving data packets over the network, 
+making it possible for the device to access network resources, such as the internet or shared files.
+
+**Types:**
+
+**Wired NICs:** These connect via Ethernet cables and are typically used in local area networks (LANs). They are often built into the motherboard of a computer 
+but can also be installed as a separate expansion card.
+
+**Wireless NICs:** These connect via Wi-Fi and allow devices to connect to wireless networks. They are commonly found in laptops and some desktop computers, and 
+can also be installed as a separate card or USB adapter.
+
+**Components:** A NIC typically includes a network port (like an Ethernet port for wired connections), and sometimes LEDs that indicate network activity and 
+connection status. Inside, it has a chip that handles data transmission and reception.
+
+**Configuration:** NICs usually come with drivers that need to be installed on the computer. These drivers allow the operating system to communicate with the
+NIC and configure it correctly.
+
+**Speed:** NICs come in various speeds, such as 10/100/1000 Mbps (Gigabit Ethernet) for wired connections, and support various Wi-Fi standards for wireless 
+connections (e.g., 802.11n, 802.11ac, or the newer 802.11ax).
+
+In essence, the NIC is a crucial component for network connectivity, enabling devices to communicate and share data over a network.
+

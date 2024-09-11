@@ -264,6 +264,8 @@ Hypervisors are used for various purposes, including server virtualization, desk
 Function: NICs facilitate communication between a computer and a network. They handle the process of sending and receiving data packets over the network, 
 making it possible for the device to access network resources, such as the internet or shared files.
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/bdb368e8d49eaa005144bd8348d7e71257558997/Image%2018.jpeg)
+
 **Types:**
 
 **Wired NICs:** These connect via Ethernet cables and are typically used in local area networks (LANs). They are often built into the motherboard of a computer 

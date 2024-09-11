@@ -274,6 +274,8 @@ but can also be installed as a separate expansion card.
 **Wireless NICs:** These connect via Wi-Fi and allow devices to connect to wireless networks. They are commonly found in laptops and some desktop computers, and 
 can also be installed as a separate card or USB adapter.
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/13d53e808b8b9a414803ed6114ff4140f1337b90/Image%201.jpeg)
+
 **Components:** A NIC typically includes a network port (like an Ethernet port for wired connections), and sometimes LEDs that indicate network activity and 
 connection status. Inside, it has a chip that handles data transmission and reception.
 

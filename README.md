@@ -293,6 +293,8 @@ In essence, the NIC is a crucial component for network connectivity, enabling de
 
 An Internet packet, often just called a "packet," is a small unit of data transmitted over a network. When you send or receive information over the Internet, it is broken down into packets to ensure efficient and reliable delivery. Here’s a breakdown of what an Internet packet typically involves:
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/d31c99c766f4fb9ba068ecff0b480f4326b77efc/Image%2019.jpeg)
+
 ### Components of an Internet Packet
 
 1. **Header**:
@@ -307,6 +309,8 @@ An Internet packet, often just called a "packet," is a small unit of data transm
 
 3. **Trailer** (Optional):
    - Some protocols include a trailer at the end of the packet that provides additional information for error checking and data integrity.
+  
+   - ![image alt](
 
 ### Packet Transmission and Reassembly
 

@@ -592,11 +592,10 @@ Algorithms are step-by-step procedures or formulas for solving problems. They op
 Understanding DSA is crucial for writing efficient code and solving complex computational problems. It also plays a significant role in coding interviews and competitive programming.
 
 24.**DBMS(DATABASE MANAGMENT SYSTEM)**:
+
 DBMS stands for Database Management System. It is software designed to manage databases, which are collections of data organized in a way that facilitates easy access, management, and updating. Here’s a breakdown of its key components and functions:
 
-
-
-### Key Components of DBMS:
+1### Key Components of DBMS:
 
 1. **Database Engine**: The core service for accessing and managing data. It handles the storage, retrieval, and update of data in the database.
 

@@ -391,6 +391,8 @@ Cloud computing enables businesses to be more agile, scale resources according t
 
 Amazon Web Services (AWS) is a comprehensive and widely adopted cloud computing platform provided by Amazon. It offers a broad range of cloud services, including computing power, storage options, and databases, among others, all delivered over the internet. AWS allows individuals and organizations to use these resources on a pay-as-you-go basis, which means you only pay for what you use.
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/7150007f17c5a5947552da8c138ad822dd9c998e/Image%205.jpeg)
+
 Here’s an overview of AWS:
 
 ### **Core Services**
@@ -437,4 +439,66 @@ Here’s an overview of AWS:
 - **Flexibility:** Supports a wide range of operating systems, programming languages, and application architectures.
 
 AWS is used by a variety of organizations, from startups to large enterprises, for purposes such as hosting websites, running applications, managing data, and implementing big data analytics.
+
+22.**MICROSOFT AZURE**:
+
+Microsoft Azure, commonly referred to as Azure, is a comprehensive cloud computing platform provided by Microsoft. It offers a wide range of cloud services, including computing, analytics, storage, and networking. Users can choose and configure these services to meet their needs, allowing them to deploy and manage applications and services through Microsoft-managed data centers.
+
+
+
+Here’s an overview of Microsoft Azure:
+
+### **Core Services**
+
+1. **Compute Services:**
+   - **Azure Virtual Machines:** Provides scalable virtual servers for running applications and workloads.
+   - **Azure App Services:** Enables the deployment of web apps, RESTful APIs, and mobile backends.
+   - **Azure Functions:** Allows you to run code in a serverless environment, triggered by events.
+
+2. **Storage Services:**
+   - **Azure Blob Storage:** Object storage for large amounts of unstructured data.
+   - **Azure Disk Storage:** Managed disks for use with Azure Virtual Machines.
+   - **Azure Files:** Managed file shares accessible via the SMB protocol.
+
+3. **Database Services:**
+   - **Azure SQL Database:** Managed relational database service for SQL Server.
+   - **Azure Cosmos DB:** Globally distributed, multi-model database service for NoSQL and other data types.
+   - **Azure Database for MySQL and PostgreSQL:** Managed database services for MySQL and PostgreSQL.
+
+4. **Networking Services:**
+   - **Azure Virtual Network:** Creates isolated network environments for your resources.
+   - **Azure Load Balancer:** Distributes incoming network traffic across multiple resources.
+   - **Azure CDN (Content Delivery Network):** Delivers content to users with low latency by caching it at strategically located edge servers.
+
+5. **Management and Monitoring:**
+   - **Azure Monitor:** Provides full-stack monitoring for applications, infrastructure, and networks.
+   - **Azure Security Center:** Unified security management and threat protection for your Azure resources.
+   - **Azure Resource Manager:** Provides management and deployment services for Azure resources.
+
+6. **Security and Identity:**
+   - **Azure Active Directory (AAD):** Identity and access management service for authentication and authorization.
+   - **Azure Key Vault:** Manages secrets, encryption keys, and certificates securely.
+   - **Azure Sentinel:** Cloud-native security information and event management (SIEM) solution for intelligent security analytics.
+
+7. **Developer Tools:**
+   - **Azure DevOps:** Provides a set of tools for planning, developing, delivering, and monitoring applications.
+   - **Azure DevTest Labs:** Helps manage and automate development and test environments.
+   - **Azure Resource Manager (ARM) Templates:** Defines and deploys infrastructure as code.
+
+### **Benefits of Azure:**
+
+- **Scalability:** Easily scale applications and resources up or down according to demand.
+- **Global Reach:** Operates in multiple geographic regions worldwide, providing high availability and redundancy.
+- **Cost Efficiency:** Offers a pay-as-you-go pricing model with no upfront costs.
+- **Integration:** Works seamlessly with Microsoft products and services like Windows Server, SQL Server, and Active Directory.
+- **Security:** Provides built-in security features and compliance with industry standards and regulations.
+
+### **Use Cases:**
+
+- **Hosting Websites and Applications:** Build and deploy web apps and services with high availability and scalability.
+- **Data Storage and Backup:** Store and manage large volumes of data with robust backup and disaster recovery options.
+- **Big Data and Analytics:** Analyze large datasets and gain insights using Azure's analytics and machine learning services.
+- **Development and Testing:** Create and test applications quickly using virtual environments and automation tools.
+
+Azure is widely used across various industries for tasks such as application development, data analytics, AI and machine learning, and hybrid cloud solutions. It competes closely with other major cloud providers like Amazon Web Services (AWS) and Google Cloud Platform (GCP).
 

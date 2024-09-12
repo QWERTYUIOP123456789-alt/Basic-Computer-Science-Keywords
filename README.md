@@ -365,6 +365,8 @@ Cloud computing is a technology that allows individuals and organizations to acc
 
 5. **Measured Service:** Cloud systems automatically control and optimize resource use by leveraging metering capabilities, allowing users to pay only for what they use.
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/39b8449eec57cf7dcc896f06fe9fc529244f148e/Image%204.jpeg)
+
 There are several types of cloud computing models:
 
 - **Public Cloud:** Services are offered over the public internet and shared across multiple organizations. Examples include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
@@ -385,4 +387,54 @@ Cloud computing can also be categorized into different service models:
 
 Cloud computing enables businesses to be more agile, scale resources according to their needs, and focus on their core activities without worrying about underlying infrastructure management.
 
+21.**AWS (Amazon Web Service)**:
+
+Amazon Web Services (AWS) is a comprehensive and widely adopted cloud computing platform provided by Amazon. It offers a broad range of cloud services, including computing power, storage options, and databases, among others, all delivered over the internet. AWS allows individuals and organizations to use these resources on a pay-as-you-go basis, which means you only pay for what you use.
+
+Here’s an overview of AWS:
+
+### **Core Services**
+
+1. **Compute Services:**
+   - **Amazon EC2 (Elastic Compute Cloud):** Provides resizable virtual servers (instances) that can be used for a variety of applications.
+   - **AWS Lambda:** Allows you to run code in response to events without provisioning or managing servers (serverless computing).
+   - **Amazon ECS (Elastic Container Service) and EKS (Elastic Kubernetes Service):** Manage containerized applications using Docker and Kubernetes.
+
+2. **Storage Services:**
+   - **Amazon S3 (Simple Storage Service):** Scalable object storage for storing and retrieving any amount of data.
+   - **Amazon EBS (Elastic Block Store):** Provides block-level storage volumes for use with EC2 instances.
+   - **Amazon Glacier:** Low-cost cloud storage service for data archiving and long-term backup.
+
+3. **Database Services:**
+   - **Amazon RDS (Relational Database Service):** Managed relational database service supporting multiple database engines (MySQL, PostgreSQL, MariaDB, Oracle, and SQL Server).
+   - **Amazon DynamoDB:** Managed NoSQL database service designed for high-performance and scalability.
+   - **Amazon Redshift:** Data warehouse service designed for big data analytics.
+
+4. **Networking Services:**
+   - **Amazon VPC (Virtual Private Cloud):** Enables you to create a private network within the AWS cloud.
+   - **Amazon Route 53:** Scalable DNS and domain name registration service.
+   - **AWS Direct Connect:** Provides a dedicated network connection from your premises to AWS.
+
+5. **Management and Monitoring:**
+   - **AWS CloudWatch:** Monitors your AWS resources and applications, providing metrics and logs.
+   - **AWS CloudTrail:** Tracks user activity and API usage for auditing and compliance.
+   - **AWS Config:** Provides a detailed view of the configuration of AWS resources and tracks changes.
+
+6. **Security and Identity:**
+   - **AWS IAM (Identity and Access Management):** Manages access to AWS services and resources securely.
+   - **AWS KMS (Key Management Service):** Manages cryptographic keys for your applications and data.
+
+7. **Developer Tools:**
+   - **AWS CodeBuild, CodeDeploy, and CodePipeline:** Set of tools for building, testing, and deploying applications.
+   - **AWS CloudFormation:** Allows you to model and provision AWS resources using templates.
+
+### **Benefits of AWS:**
+
+- **Scalability:** Easily scale resources up or down based on demand.
+- **Cost-Effectiveness:** Pay only for what you use, with no upfront costs.
+- **Global Reach:** Operates in multiple geographic regions and data centers worldwide.
+- **Security:** Provides robust security features and compliance certifications.
+- **Flexibility:** Supports a wide range of operating systems, programming languages, and application architectures.
+
+AWS is used by a variety of organizations, from startups to large enterprises, for purposes such as hosting websites, running applications, managing data, and implementing big data analytics.
 

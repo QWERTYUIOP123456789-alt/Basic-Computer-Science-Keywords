@@ -506,6 +506,8 @@ Azure is widely used across various industries for tasks such as application dev
 
 Google Cloud Platform (GCP) is a suite of cloud computing services provided by Google. It offers a range of services for computing, storage, data analytics, machine learning, and more, enabling users to build, deploy, and scale applications and services in the cloud. GCP is known for its strong integration with Google's data infrastructure and innovative technology solutions.
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/20a9a1e826eb48feb40ef672a73637727cd89ef8/Image%207.jpeg)
+
 ### **Core Services**
 
 1. **Compute Services:**

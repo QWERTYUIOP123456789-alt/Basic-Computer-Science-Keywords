@@ -331,6 +331,8 @@ Packets are fundamental to how data is transmitted over the Internet. By breakin
 
 Ethernet is a widely used technology for connecting computers and other devices in a local area network (LAN). It was first developed in the 1970s by Xerox PARC and has evolved significantly over the years. Here are some key aspects of Ethernet:
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/87fa6f4b285a783c4a417816620a6df8c8ef7420/Image%203.jpeg)
+
 1. **Data Transmission**: Ethernet transmits data in packets over a network. Each packet contains both the data being sent and metadata, including addresses that help route the packet to its destination.
 
 2. **Frame Structure**: Ethernet packets are called frames. An Ethernet frame consists of a header, payload, and a trailer. The header contains source and destination MAC addresses, while the trailer includes error-checking information.

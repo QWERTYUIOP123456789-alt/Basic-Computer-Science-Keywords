@@ -351,4 +351,38 @@ Ethernet is a widely used technology for connecting computers and other devices 
 
 Ethernet remains a fundamental technology in networking, known for its reliability, simplicity, and continuous advancements in speed and capability.
 
+20.** CLOUD COMPUTING**:
+
+Cloud computing is a technology that allows individuals and organizations to access and use computing resources—such as servers, storage, databases, networking, software, and analytics—over the internet. Instead of owning and maintaining physical hardware and infrastructure, users can leverage cloud services provided by third-party vendors. Here are some key aspects of cloud computing:
+
+1. **On-Demand Self-Service:** Users can provision and manage computing resources as needed without requiring human intervention from the service provider.
+
+2. **Broad Network Access:** Services are available over the network and can be accessed through various devices, such as smartphones, tablets, and laptops.
+
+3. **Resource Pooling:** Cloud providers use a multi-tenant model to pool resources and serve multiple customers with a single physical infrastructure, optimizing resource usage and efficiency.
+
+4. **Rapid Elasticity:** Resources can be quickly scaled up or down based on demand, providing flexibility and cost-effectiveness.
+
+5. **Measured Service:** Cloud systems automatically control and optimize resource use by leveraging metering capabilities, allowing users to pay only for what they use.
+
+There are several types of cloud computing models:
+
+- **Public Cloud:** Services are offered over the public internet and shared across multiple organizations. Examples include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+
+- **Private Cloud:** Services are maintained on a private network, providing greater control and security. This can be hosted on-premises or by a third-party provider.
+
+- **Hybrid Cloud:** Combines both public and private clouds, allowing data and applications to be shared between them, offering greater flexibility and optimization.
+
+- **Community Cloud:** Shared by several organizations with common interests or requirements, such as regulatory compliance.
+
+Cloud computing can also be categorized into different service models:
+
+- **Infrastructure as a Service (IaaS):** Provides virtualized computing resources over the internet, including virtual machines, storage, and networks. Examples include AWS EC2 and Google Compute Engine.
+
+- **Platform as a Service (PaaS):** Offers a platform allowing customers to develop, run, and manage applications without dealing with underlying infrastructure. Examples include Google App Engine and Microsoft Azure App Service.
+
+- **Software as a Service (SaaS):** Delivers software applications over the internet, on a subscription basis. Examples include Gmail, Microsoft Office 365, and Salesforce.
+
+Cloud computing enables businesses to be more agile, scale resources according to their needs, and focus on their core activities without worrying about underlying infrastructure management.
+
 

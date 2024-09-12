@@ -568,6 +568,8 @@ GCP is used by a wide range of organizations, from startups to large enterprises
 
 DSA stands for Data Structures and Algorithms. It’s a foundational concept in computer science that focuses on organizing and manipulating data efficiently. Here’s a breakdown:
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/a151e1aeb906fcbf771accb267a987784c506aac/Image%208.jpeg)
+
 ### Data Structures
 Data structures are ways to store and organize data so that it can be accessed and modified efficiently. Common data structures include:
 
@@ -588,4 +590,52 @@ Algorithms are step-by-step procedures or formulas for solving problems. They op
 - **Dynamic Programming**: Solving complex problems by breaking them into simpler subproblems (e.g., Fibonacci sequence).
 
 Understanding DSA is crucial for writing efficient code and solving complex computational problems. It also plays a significant role in coding interviews and competitive programming.
+
+24.**DBMS(DATABASE MANAGMENT SYSTEM)**:
+DBMS stands for Database Management System. It is software designed to manage databases, which are collections of data organized in a way that facilitates easy access, management, and updating. Here’s a breakdown of its key components and functions:
+
+
+
+### Key Components of DBMS:
+
+1. **Database Engine**: The core service for accessing and managing data. It handles the storage, retrieval, and update of data in the database.
+
+2. **Database Schema**: Defines the structure of the database, including tables, columns, data types, and the relationships between tables.
+
+3. **Query Processor**: Interprets and executes queries, often written in SQL (Structured Query Language). It translates user requests into database operations.
+
+4. **Transaction Manager**: Ensures that database transactions are processed reliably and ensures that data remains consistent and correct even in the case of errors or failures.
+
+5. **Database Administrator (DBA) Tools**: Provides tools for database management, such as performance monitoring, backup, and recovery tools.
+
+6. **Security Manager**: Manages user access and permissions, ensuring that only authorized users can access or modify the data.
+
+### Functions of a DBMS:
+
+1. **Data Storage Management**: Efficiently stores and organizes data on disk or other storage media.
+
+2. **Data Retrieval**: Allows users to query and retrieve data efficiently, often through query languages like SQL.
+
+3. **Data Manipulation**: Supports operations like inserting, updating, and deleting data.
+
+4. **Data Integrity and Validation**: Ensures that data adheres to defined rules and constraints, maintaining accuracy and consistency.
+
+5. **Concurrency Control**: Manages simultaneous data access by multiple users, ensuring that transactions do not interfere with each other and that data remains consistent.
+
+6. **Backup and Recovery**: Provides mechanisms to back up data and recover it in case of system failure or data corruption.
+
+### Types of DBMS:
+
+1. **Relational DBMS (RDBMS)**: Organizes data into tables with rows and columns. Examples include MySQL, PostgreSQL, and Oracle Database.
+
+2. **NoSQL DBMS**: Designed for unstructured or semi-structured data and often used in big data applications. Examples include MongoDB, Cassandra, and Redis.
+
+3. **Object-Oriented DBMS (OODBMS)**: Stores data in objects, similar to object-oriented programming. Examples include db4o and ObjectDB.
+
+4. **Hierarchical DBMS**: Data is organized in a tree-like structure. Examples include IBM’s Information Management System (IMS).
+
+5. **Network DBMS**: Uses a graph structure where entities can have multiple relationships. Examples include Integrated Data Store (IDS).
+
+DBMSs are essential for managing large volumes of data and are used in various applications, from enterprise systems to web applications.
+
 

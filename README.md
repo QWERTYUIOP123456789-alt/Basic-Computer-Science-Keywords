@@ -444,7 +444,7 @@ AWS is used by a variety of organizations, from startups to large enterprises, f
 
 Microsoft Azure, commonly referred to as Azure, is a comprehensive cloud computing platform provided by Microsoft. It offers a wide range of cloud services, including computing, analytics, storage, and networking. Users can choose and configure these services to meet their needs, allowing them to deploy and manage applications and services through Microsoft-managed data centers.
 
-
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/0c11a810e6b6c2df77ed49495fb4f816a85e7694/Image%206.jpeg)
 
 Here’s an overview of Microsoft Azure:
 
@@ -501,4 +501,64 @@ Here’s an overview of Microsoft Azure:
 - **Development and Testing:** Create and test applications quickly using virtual environments and automation tools.
 
 Azure is widely used across various industries for tasks such as application development, data analytics, AI and machine learning, and hybrid cloud solutions. It competes closely with other major cloud providers like Amazon Web Services (AWS) and Google Cloud Platform (GCP).
+
+23. **GCP(GOOGLE CLOUD PLATFORM)**:
+
+Google Cloud Platform (GCP) is a suite of cloud computing services provided by Google. It offers a range of services for computing, storage, data analytics, machine learning, and more, enabling users to build, deploy, and scale applications and services in the cloud. GCP is known for its strong integration with Google's data infrastructure and innovative technology solutions.
+
+### **Core Services**
+
+1. **Compute Services:**
+   - **Google Compute Engine:** Provides scalable virtual machines with various configurations and customizations.
+   - **Google Kubernetes Engine (GKE):** Managed Kubernetes service for container orchestration and deployment.
+   - **Google App Engine:** Platform-as-a-Service (PaaS) for building and deploying applications without managing the underlying infrastructure.
+   - **Google Cloud Functions:** Serverless computing service that lets you run code in response to events without managing servers.
+
+2. **Storage Services:**
+   - **Google Cloud Storage:** Object storage service for storing and retrieving any amount of data at any time.
+   - **Google Persistent Disk:** Block storage service for use with Google Compute Engine virtual machines.
+   - **Google Filestore:** Managed file storage for applications requiring a file system interface and a shared file system.
+
+3. **Database Services:**
+   - **Google Cloud SQL:** Managed relational database service for SQL databases like MySQL, PostgreSQL, and SQL Server.
+   - **Google Cloud Spanner:** Globally distributed, horizontally scalable relational database service.
+   - **Google Firestore:** NoSQL document database for building web and mobile applications.
+   - **Google Bigtable:** Managed NoSQL database service designed for large analytical and operational workloads.
+
+4. **Networking Services:**
+   - **Google Virtual Private Cloud (VPC):** Creates isolated network environments within GCP.
+   - **Google Cloud Load Balancing:** Distributes incoming traffic across multiple virtual machines and regions.
+   - **Google Cloud CDN:** Content Delivery Network service for delivering web and video content with low latency.
+
+5. **Management and Monitoring:**
+   - **Google Cloud Monitoring:** Provides visibility into your application's performance and availability.
+   - **Google Cloud Logging:** Collects and stores logs from applications and services for analysis.
+   - **Google Cloud Operations Suite (formerly Stackdriver):** Unified monitoring, logging, and diagnostics platform.
+
+6. **Security and Identity:**
+   - **Google Cloud Identity & Access Management (IAM):** Manages access control and permissions for resources.
+   - **Google Cloud Key Management Service (KMS):** Manages cryptographic keys for data encryption.
+   - **Google Cloud Security Command Center:** Provides security and risk management for your GCP resources.
+
+7. **Machine Learning and AI:**
+   - **Google AI Platform:** Tools and services for building, training, and deploying machine learning models.
+   - **AutoML:** Allows users to build custom machine learning models with minimal coding.
+   - **BigQuery:** Fully-managed data warehouse designed for large-scale data analytics.
+
+### **Benefits of GCP:**
+
+- **Innovation:** Access to advanced technologies such as artificial intelligence, machine learning, and big data analytics, leveraging Google’s expertise.
+- **Scalability:** Easily scale applications and services based on demand with high availability.
+- **Global Infrastructure:** Operates in multiple regions around the world, providing low-latency access and disaster recovery options.
+- **Cost Efficiency:** Offers competitive pricing with a pay-as-you-go model and various discounts.
+- **Integration:** Seamlessly integrates with other Google services and products, including G Suite and Google Ads.
+
+### **Use Cases:**
+
+- **Application Development:** Build, deploy, and manage applications with various tools and platforms.
+- **Data Analytics:** Perform large-scale data processing and analytics with tools like BigQuery.
+- **Machine Learning:** Develop and deploy machine learning models and leverage pre-trained models for various tasks.
+- **Storage and Backup:** Store and protect data with scalable and reliable storage solutions.
+
+GCP is used by a wide range of organizations, from startups to large enterprises, for various purposes including data processing, application development, and leveraging advanced analytics and AI capabilities. It competes with other major cloud providers like Amazon Web Services (AWS) and Microsoft Azure.
 

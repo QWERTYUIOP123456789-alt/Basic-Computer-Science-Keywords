@@ -925,7 +925,7 @@ Semiconductors are integral to modern technology due to their unique ability to 
 
 **DevOps** is a set of practices, principles, and cultural philosophies aimed at improving collaboration and communication between software development (Dev) and IT operations (Ops) teams. The primary goal of DevOps is to enhance the efficiency of the development and deployment processes, leading to faster and more reliable delivery of software and services.
 
-![image alt](
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/247b73267615b6340e305a0b6a5d0d31da0a6da6/Image%2018.jpeg)
 
 ### Key Principles of DevOps
 

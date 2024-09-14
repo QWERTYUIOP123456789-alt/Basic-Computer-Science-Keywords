@@ -783,7 +783,7 @@ In summary, an assembler serves as a crucial intermediary between assembly langu
 
 An interpreter is a type of computer program that executes instructions written in a programming language directly, without requiring them to be compiled into machine code first. Unlike a compiler, which translates the entire program into machine code before execution, an interpreter processes and executes code line-by-line or statement-by-statement at runtime.
 
-![image alt](
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/6d8c717b893cef3d78b49c6f27867ff55b1e7b39/Image%2015.jpeg)
 
 Here's a more detailed look at how interpreters work and their key characteristics:
 

@@ -689,7 +689,11 @@ GitOps is particularly popular in Kubernetes environments, but the principles ca
 
 28.**GITLab**
 
-GitLab is a web-based DevOps platform that provides a range of tools for managing the entire software development lifecycle. It integrates source code management, CI/CD (Continuous Integration/Continuous Deployment), and various other DevOps practices into a single application. Here’s an overview of GitLab’s core features:
+GitLab is a web-based DevOps platform that provides a range of tools for managing the entire software development lifecycle. It integrates source code management, CI/CD (Continuous Integration/Continuous Deployment), and various other DevOps practices into a single application. 
+
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/87662fe3f9f8d62d586bd3de145dd1fa56d9317e/Image%2012.jpeg)
+
+Here’s an overview of GitLab’s core features:
 
 1. **Source Code Management (SCM)**: GitLab provides Git-based repositories for version control. You can host, manage, and collaborate on code with features such as branching, merging, and pull requests (or "merge requests" in GitLab terminology).
 

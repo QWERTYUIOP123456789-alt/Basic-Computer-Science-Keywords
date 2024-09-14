@@ -749,7 +749,7 @@ In essence, a compiler plays a crucial role in transforming human-readable code 
 
 An assembler is a type of computer program that translates assembly language code into machine code or object code. Assembly language is a low-level programming language that is closely related to machine code and is specific to a particular computer architecture.
 
-
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/8b1157f7b5d6d3868536a5d5f3d8101ea12afc99/Image%2014.jpeg)
 
 Here’s a more detailed look at what an assembler does and its role in the programming process:
 

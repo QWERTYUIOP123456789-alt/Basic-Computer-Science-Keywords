@@ -721,6 +721,8 @@ GitLab aims to provide a comprehensive DevOps platform that covers the entire de
 
 A compiler is a specialized program that translates code written in a high-level programming language into machine code or an intermediate code that can be executed by a computer. This process is essential because computers operate on binary code, which is significantly different from the human-readable code written by programmers.
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/4ccc8781a3741f856b59d488c4c38d951db7a515/Image%2013.jpeg)
+
 Here’s a breakdown of what a compiler does and its key components:
 
 1. **Translation**: The primary function of a compiler is to translate code from a high-level programming language (such as C++, Java, or Python) into a lower-level language, typically machine code (binary code) or intermediate code (like bytecode for the Java Virtual Machine).

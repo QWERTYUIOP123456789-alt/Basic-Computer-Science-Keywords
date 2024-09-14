@@ -1051,7 +1051,7 @@ A **router** is a networking device that directs data packets between different 
 
 A router is an essential device in networking that manages and directs traffic between networks, devices, and the internet. It performs various functions such as packet forwarding, network address translation, traffic management, and security, depending on its type and intended use. Routers play a crucial role in ensuring efficient and secure communication within and between networks.
 
-**TOR**
+39.**TOR**
 
 **Tor**, short for **The Onion Router**, is a free and open-source software designed to enable anonymous communication on the internet. It helps protect users' privacy and security by obscuring their online activities and locations. Here’s an overview of how Tor works and its key features:
 

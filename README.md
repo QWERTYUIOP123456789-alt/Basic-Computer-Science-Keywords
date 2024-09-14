@@ -872,6 +872,8 @@ If "liner/coder" refers to something else or if there’s a specific context or 
 
 A semiconductor is a material with electrical conductivity between that of a conductor and an insulator. This unique property makes semiconductors essential for modern electronics, as they can be used to control electrical currents and perform a variety of functions in electronic devices.
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/b487e614271954f706cb311363d40884017c07cb/Image%2017.jpeg)
+
 ### Key Characteristics of Semiconductors
 
 1. **Electrical Conductivity**:

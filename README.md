@@ -1055,7 +1055,7 @@ A router is an essential device in networking that manages and directs traffic b
 
 **Tor**, short for **The Onion Router**, is a free and open-source software designed to enable anonymous communication on the internet. It helps protect users' privacy and security by obscuring their online activities and locations. Here’s an overview of how Tor works and its key features:
 
-![image alt](
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/6ff0be449d565880ba1bebc2d6484a20f9da6d8e/Image%2020.jpeg)
 
 ### How Tor Works
 

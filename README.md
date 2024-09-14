@@ -667,7 +667,7 @@ It's widely used in the software development community for open-source projects,
 
 GitOps is a set of practices for managing and deploying applications using Git as the single source of truth for both infrastructure and application code. It extends the principles of DevOps and Infrastructure as Code (IaC) by using Git repositories to define, store, and manage the desired state of your infrastructure and applications. Here’s how GitOps typically works:
 
-
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/4487df7379739e111fd4b68c75f6a9a44121ad15/Image%2011.jpeg)
 
 1. **Declarative Configuration**: All configurations for infrastructure and applications are stored in Git repositories in a declarative manner. This means you define the desired state of your system in configuration files (e.g., YAML files) and commit these files to the repository.
 

@@ -996,7 +996,7 @@ In summary, DevOps is a comprehensive approach to software development and IT op
 
 A **router** is a networking device that directs data packets between different networks or devices within a network. Its primary function is to manage and route traffic efficiently, ensuring that data is delivered to the correct destination.
 
-![image alt](
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/73da0f72e5e7d28ff634fb39e6adb3a9e57f1ffd/Image%2019.jpeg)
 
 ### Key Functions of a Router
 

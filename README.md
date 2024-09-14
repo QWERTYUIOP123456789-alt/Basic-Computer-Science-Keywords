@@ -1241,6 +1241,8 @@ A firewall is an essential component of network security that helps protect syst
 
 **Virtual currency** is a type of digital currency that exists only in electronic form and is not issued or regulated by a central authority like a government or financial institution. Unlike traditional physical currencies (such as coins and banknotes), virtual currencies are created, traded, and managed entirely online. They can be used for a variety of purposes, including online transactions, investment, and as part of virtual economies in online games and platforms.
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/7e745ff5ff55eeeffc7fd4b3960744ecdf94f502/Image%2023.jpeg)
+
 ### Key Characteristics of Virtual Currency
 
 1. **Digital Nature**:

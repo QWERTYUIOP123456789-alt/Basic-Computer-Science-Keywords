@@ -623,6 +623,8 @@ DBMS stands for Database Management System. It is software designed to manage da
 
 6. **Backup and Recovery**: Provides mechanisms to back up data and recover it in case of system failure or data corruption.
 
+   ![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/fd0d901442f73b0df18f354d8307d89c2ee0b335/Image%209.jpeg)
+
 ### Types of DBMS:
 
 1. **Relational DBMS (RDBMS)**: Organizes data into tables with rows and columns. Examples include MySQL, PostgreSQL, and Oracle Database.
@@ -636,5 +638,29 @@ DBMS stands for Database Management System. It is software designed to manage da
 5. **Network DBMS**: Uses a graph structure where entities can have multiple relationships. Examples include Integrated Data Store (IDS).
 
 DBMSs are essential for managing large volumes of data and are used in various applications, from enterprise systems to web applications.
+
+25.**GITHUB**
+
+GitHub is a platform for version control and collaborative software development. It uses Git, a version control system created by Linus Torvalds, to track changes in code and facilitate collaboration among developers. 
+
+
+
+Here's a quick rundown of what GitHub offers:
+
+1. **Version Control**: GitHub allows you to track changes to your code over time, making it easy to manage different versions and collaborate with others.
+
+2. **Repositories**: Projects are organized into repositories (or repos), where you can store your code, track issues, and manage documentation.
+
+3. **Collaboration**: Multiple people can work on a project simultaneously. GitHub provides tools for reviewing code, merging changes, and managing contributions.
+
+4. **Issue Tracking**: You can create and track issues (bugs, feature requests, etc.) related to your project.
+
+5. **Pull Requests**: This feature lets you propose changes to a repository, review code, and discuss modifications before integrating them into the main project.
+
+6. **GitHub Actions**: You can automate workflows like testing and deployment directly within GitHub.
+
+7. **GitHub Pages**: Host static websites directly from your repositories.
+
+It's widely used in the software development community for open-source projects, personal projects, and enterprise-level applications.
 
 

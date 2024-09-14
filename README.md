@@ -827,6 +827,8 @@ An interpreter serves as a bridge between high-level programming languages and m
 
 It seems like there might be a bit of confusion in your query. The term "liner/coder" is not widely recognized in the context of computer science or programming. However, I'll provide explanations for terms that might be relevant based on what you might be referring to:
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/a2404bfe6d5faa15f3b766c70aacd8100cd1fac8/Image%2016.jpeg)
+
 ### 1. **Linter**
 
 A **linter** is a tool used in software development to analyze source code for potential errors, style issues, or deviations from coding standards. Linters help maintain code quality and consistency by flagging issues that might lead to bugs or make the code harder to read and maintain. Linters can be configured to follow specific style guidelines and best practices.

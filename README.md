@@ -1393,6 +1393,8 @@ Kubernetes is a powerful platform for container orchestration that simplifies th
 
 **Crypto mining** (or cryptocurrency mining) is the process of validating and adding new transactions to a blockchain ledger and creating new cryptocurrency units. It is a crucial component of many cryptocurrencies, including Bitcoin, as it ensures the security and integrity of the blockchain network.
 
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/a6ca73d882c4e71976b02ee1c4766c2fde0ab7a1/Image%2025.jpeg)
+
 ### How Crypto Mining Works
 
 1. **Transaction Verification**:

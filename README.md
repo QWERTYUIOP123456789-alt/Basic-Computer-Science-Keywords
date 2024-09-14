@@ -643,7 +643,7 @@ DBMSs are essential for managing large volumes of data and are used in various a
 
 GitHub is a platform for version control and collaborative software development. It uses Git, a version control system created by Linus Torvalds, to track changes in code and facilitate collaboration among developers. 
 
-
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/ec5a2160d08791a8960aaf3200f85b93c19f7480/Image%2010.jpeg)
 
 Here's a quick rundown of what GitHub offers:
 

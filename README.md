@@ -1177,7 +1177,8 @@ Flutter is a versatile and powerful framework for building high-quality, nativel
 
 A **firewall** is a network security device or software that monitors and controls incoming and outgoing network traffic based on predetermined security rules. Its primary function is to create a barrier between a trusted internal network and untrusted external networks, such as the internet, to prevent unauthorized access and protect systems from various types of cyber threats.
 
-![image alt](
+![image alt](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/6f83f624e6eb6da38f302ddc482487d955b316aa/Image%2022.jpeg)
+
 ### Types of Firewalls
 
 1. **Network Firewalls**:
